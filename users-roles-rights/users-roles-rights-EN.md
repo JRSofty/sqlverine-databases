@@ -17,5 +17,3 @@ This example has a small database with four tables which fits a simple use case 
 * SELECT and JOIN two tables for a specific user to get their login and role
 
 * SELECT multiple single columns from all data in one table
-
-* 
